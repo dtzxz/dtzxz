@@ -25,6 +25,6 @@ O projeto permite adicionar, concluir, excluir e filtrar tarefas.
 
 ## Certificação
 
-[![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-Concluído-2ea44f?style=for-the-badge&logo=github)](./Certificado%20Github%20-%20Microsoft%20Foundations.pdf)
+[![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-Concluído-2ea44f?style=for-the-badge&logo=github)](https://github.com/dtzxz/dtzxz/blob/main/Certificado%20Github%20-%20Microsoft%20Foudantions.pdf)
 
 Clique no badge acima para visualizar o certificado de conclusão da trilha GitHub Foundations.
