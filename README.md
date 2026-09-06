@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou Daniel de Alcântara Teti! 
 
-<!--
-**dtzxz/dtzxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do 2º período de Engenharia de Software.
 
-Here are some ideas to get you started:
+Atualmente estou estudando desenvolvimento web, lógica de programação e versionamento de código com Git e GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e ferramentas
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Python básico
+- Linguagem C
+
+## Projeto em destaque
+
+### TaskFlow
+
+Aplicação web desenvolvida para organizar tarefas de forma simples.  
+O projeto permite adicionar, concluir, excluir e filtrar tarefas.
+
+🔗 [Acessar o repositório TaskFlow](https://github.com/dtzxz/TaskFlow)
+
+## Certificação
+
+[![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-Concluído-2ea44f?style=for-the-badge&logo=github)](./Certificado%20Github%20-%20Microsoft%20Foundations.pdf)
+
+Clique no badge acima para visualizar o certificado de conclusão da trilha GitHub Foundations.
